@@ -10,6 +10,14 @@
   "scripts": {
     "build": "vite build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumawat30rahul/react-lite-hooks.git"
+  },
+  "homepage": "https://github.com/kumawat30rahul/react-lite-hooks#readme",
+  "bugs": {
+    "url": "https://github.com/kumawat30rahul/react-lite-hooks/issues"
+  },
   "peerDependencies": {
     "react": ">=17.0.0"
   },
